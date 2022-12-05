@@ -1,0 +1,22 @@
+Nov 29
+FEC Team Daffodil - Phea and Nicholas
+Set up Trello, Miro and Git
+Look over everything on learn
+
+Nov 30
+Walk through the Miro board and pick widgets
+Picked Q&A and going to take charge on the CSS
+
+Dec 1
+Finish writing Trello tickets
+Practice git workflow
+
+Dec 2
+Started coding the skeleton for Q&A with hardcoded data
+Knock out overview tickets while referencing the business plan
+
+Dec 5
+Meet with team to get an idea of what to do during this sprint and throughout the week
+Going to set up the API
+Need to figure out what's wrong with the dotenv
+Come up with a solution for the infinite scrolling
